@@ -2,4 +2,7 @@ defense 50%
 dmg 30%
 atk speed 70%
 durability 40%
-ultimate 30 second
+ultimate 30 seconds
+rage mode 10 seconds
+
+mode call king 20 seconds
