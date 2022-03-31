@@ -1,4 +1,5 @@
-defense 30%
-dmg 20%
-atk speed 40%
+defense 50%
+dmg 30%
+atk speed 70%
 durability 40%
+ultimate 30 second
