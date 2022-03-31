@@ -1,6 +1,6 @@
 slow enemy 2000 points
-make big damage 1000 points
 create critical damage 20000 points
 damage default 25000 points
 add magicstone 20 points
 increase all power 300% damage
+get bonus 20% from enemy
