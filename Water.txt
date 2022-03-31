@@ -1,4 +1,4 @@
-increase damage 1220 points 
 slow enemy 200 points
 make big damage 1000 points
 create critical damage 20000 points
+damage default 25000 points
