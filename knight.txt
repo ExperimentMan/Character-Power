@@ -1,0 +1,4 @@
+defense 30%
+dmg 20%
+atk speed 40%
+durability 40%
