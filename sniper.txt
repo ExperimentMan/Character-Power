@@ -1,1 +1,3 @@
 new updated sniper 1000 range
+critical range every 200 meter
+big damage for rage mode
