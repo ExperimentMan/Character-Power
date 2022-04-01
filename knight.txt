@@ -6,3 +6,5 @@ ultimate 30 seconds
 rage mode 10 seconds
 beast mode 300%
 mode call king 20 seconds
+king mode 35 seconds
+dark king 30 seconds
