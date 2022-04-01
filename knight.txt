@@ -1,8 +1,8 @@
 defense 50%
 dmg 30%
-boomba 200%
-absorb night 200 points
+ultimate speed 10%
+hardcore 200%
 ultimate 30 seconds
 rage mode 10 seconds
-starman 300%
+beast mode 300%
 mode call king 20 seconds
