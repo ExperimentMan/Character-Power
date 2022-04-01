@@ -1,0 +1,7 @@
+sword magic damage 200%
+
+atk all 300%
+
+basic atk 3500 points
+
+ultimate 20 seconds
