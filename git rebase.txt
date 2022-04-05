@@ -1,0 +1,2 @@
+
+git checkout -b namabaru (laungsung buat dan pindah branch langsung)

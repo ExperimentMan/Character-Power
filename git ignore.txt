@@ -1,0 +1,16 @@
+////////////git ignore ///////////////////
+
+buat file .gitignore
+
+tulis di .gitignore untuk abaikan file :
+
+namafile.extensinya
+
+namafile/ (untuk folder)
+
+*.exe atau extension lain ( untuk abaikan khusus yang berxtensi)
+
+
+jika ingin mengetahui apa saja yang diabaikan klik
+
+https://www.toptal.com/developers/gitignore

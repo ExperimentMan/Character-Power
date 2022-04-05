@@ -1,0 +1,15 @@
+git branch namafile ( membuat atau check branch yang sudah ada)
+
+
+git log --all --oneline --graph (melihat alur branch)
+
+
+alias namashortcut="perintah git" (untuk membuat shortcut perintah sendiri dari perintah default git)
+
+
+git merge namabranch (harus pindah ke branch master jika ingi digabung master)
+
+
+git branch --merged
+
+git branch -d namabranch (menghapus branch)

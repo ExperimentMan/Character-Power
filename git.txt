@@ -1,0 +1,88 @@
+
+alur:  working diretory >>>>  staging directory >>>> repository
+
+view -> command pallete > tulis install "code"  VScode  (untuk sambung ke coding)
+
+
+
+
+git config --global user.name "isi username"	
+git config --global user.email "isi emailnya"
+
+
+////////////////////////////////////////
+
+
+check semua konfigurasi:
+git config --list
+git config --list --show-origin
+
+
+/////////////////////////////////////////
+
+
+
+
+git add . (masukan semua ke stage)
+
+git diff (melihat perubahan)
+
+git show ( alternatif liat perubahan)
+
+git add . ( memasukan semua ke staged directory)
+
+git clean -f (menghapus file di working directory)
+
+git restore nama file (mengulang file kembali ke awal atau restore file yang telah dihapus di working directory)
+
+/////////////////////////////////////////////////
+
+
+git commit -am "pesan pesan"  (untuk lansung masuk commit yang sudah modified)
+
+
+///////////////////////////////////////////////////
+
+git log (melihat riwayat commit)
+
+git log --oneline (meringkas riwayat commit)
+
+git log --namafile ( melihat riwayat 1 file)
+
+
+git log --oneline --graph (melihat alur riwayat branch commit)
+
+
+git diff hash1 hash2 (melihat perbandingkan perubahan file 1 dan file 2)
+
+
+git reset ( memindahkan head/akhir coomit)     bisa balik jika belum dicommit
+
+git rest --soft (pindah tapi gk ngubah working dan stagging)    bisa balik jika belum dicommit
+
+
+git rest --mixed  (pindah tapi ngubah hanya stagging)    bisa balik jika belum dicommit
+
+
+git rest --hard ( pindah dan hapus semua riwayat terakhir)    bisa balik jika belum dicommit
+
+
+git  commit --amend -m "" (untuk mengabungkan file terakhir tanpa buat commit baru dari head)
+
+
+
+git checkout kode hash --  nama file  (maju mundur commit dan untuk melihat isi dari repository di staged directory sebelumnya)
+
+
+git revert kode hash (mengembalikan file yang telah sudah terlanjur di commit )
+
+
+.gitignore ( mengabaikan salah satu file dan tidak ditrack oleh system git)
+
+
+ls -l (melihat list filenya)
+git blame namefile (mencari tahu siapa pembuat commit)
+
+
+
+git config --global alias.namaPerintah namaPerintahGit  (untuk membuat alias pada perintah git)

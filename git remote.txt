@@ -1,0 +1,142 @@
+
+////////////////// clone dan edit  //////////////////////////
+
+
+git clone "kode https" (untuk mengclone dan mengconnect github ke git)
+
+git remote (melihat file default)
+
+git remote -v (detail file)
+
+
+git push ( untuk upload file ke github)
+
+jika ada permissin denied : click search windows 
+ketik "credential" terus cari 
+windows credential terus remove account github yang lama.
+
+
+/////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+----------------------------------------------------------------
+
+
+
+
+
+////////////////// tambah folder di github ///////////////////////////
+
+untuk folder baru pertama git init terus di commit dulu filenya
+
+buat repository
+
+git remote add origin https://github.com/ExperimentMan/Projectx1.git
+git branch -M main
+git push -u origin main
+
+jika error:
+git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/ExperimentMan/projectX1.git'
+
+solusi:
+hapus .git atau cut .git dan semua file lain
+delete folder
+make new folder
+paste into folder
+lakukan cara pertama paling atas.
+
+
+////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+/////////////////// remote conflic git ////////////////////////////////
+
+
+
+git fetch ( untuk cek repo dengan repo github)
+
+git status
+
+git log --all --oneline --graph
+
+
+git pull ( download conflict file) dan langsung ke kode editor
+
+
+git add namafile
+
+git commit -m "pesan"
+
+git push (upload yang telah di fix)
+
+
+
+/////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+/////////////////////////////////upload github ke hosting ///////////////////////////
+
+
+gunakan cara tambah folder di github
+
+beri nama repository namfile.github.io
+
+pergi setting
+
+pages
+
+save ke main
+trus klik linknya
+
+jika belum bisa refresh githubnya dan klik lagi link hostingnya
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
