@@ -1,4 +1,0 @@
-fire damage 2000 points
-water damage 3000 points
-air damage 400 points
-curse damage 4000 points
